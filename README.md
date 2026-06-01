@@ -107,10 +107,10 @@ class AkhilTV:
 <div align="center">
 
 <a href="https://github.com/AKHIL572">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKHIL572&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-ashy-seven-99.vercel.app/api?username=AKHIL572&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/AKHIL572">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL572&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-ashy-seven-99.vercel.app/api/top-langs/?username=AKHIL572&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -249,11 +249,11 @@ class AkhilTV:
 
 | 🏆 | Achievement | Details |
 |---|---|---|
-| 📜 | IBM Data Analyst Professional Certificate | Coursera |
-| 📜 | IBM Data Scientist Professional Certificate | Coursera |
+| 📜 | IBM Data Analyst Professional Certificate | Coursera · 6-Month Professional Program |
+| 📜 | IBM Data Scientist Professional Certificate | Coursera · 6-Month Professional Program |
 | 📜 | GenAI Powered Data Analytics Job Simulation | Tata iQ (Forage) |
 | 📜 | Data Analytics Job Simulation | Deloitte |
-| 📜 | YIP — Data Sciences & Future Technologies | Certification |
+| 🏅 | Young Innovators Programme (YIP) — Data Sciences & Future Technologies | District Level Winner · Selected to State Level · 2025 |
 | 🤝 | Data Science Intern | Codec Technologies — AICTE & ICAC Approved · Google for Education Partner |
 | 🤝 | Data Science Intern | Cognifyz Technologies |
 
